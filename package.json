@@ -1,0 +1,15 @@
+{
+  "name": "react-native-mode-kiosk",
+  "version": "0.0.3",
+  "description": "Biblioteca para ativar/desativar o Kiosk Mode em React Native",
+  "main": "src/index",
+  "types": "src/index.d.ts",
+  "author": "Diego Carlos",
+  "license": "MIT",
+  "homepage": "#readme",
+  "create-react-native-library": {
+    "type": "module-legacy",
+    "languages": "kotlin-objc",
+    "version": "0.42.2"
+  }
+}
